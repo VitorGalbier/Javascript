@@ -5,5 +5,4 @@ for (i = 0; i < 5; i++){
         frutas[4] = "Manga"
         console.log(frutas[4])
     }
-
 }
